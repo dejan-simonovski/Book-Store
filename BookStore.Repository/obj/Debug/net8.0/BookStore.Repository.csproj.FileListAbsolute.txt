@@ -1,0 +1,75 @@
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.deps.json
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStor.9F9B03E6.Up2Date
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\refint\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Dejan\Desktop\IS\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\ref\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.deps.json
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStor.9F9B03E6.Up2Date
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\refint\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Dejan\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\ref\BookStore.Repository.dll
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.deps.json
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStor.9F9B03E6.Up2Date
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\refint\BookStore.Repository.dll
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Angel Risteski\Desktop\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\ref\BookStore.Repository.dll
+E:\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.deps.json
+E:\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.dll
+E:\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.pdb
+E:\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.dll
+E:\BookStoreIS\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.pdb
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.AssemblyReference.cache
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfoInputs.cache
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfo.cs
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStor.9F9B03E6.Up2Date
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.dll
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\refint\BookStore.Repository.dll
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.pdb
+E:\BookStoreIS\BookStore.Repository\obj\Debug\net8.0\ref\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.deps.json
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\bin\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.dll
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\bin\Debug\net8.0\BookStore.Domain.pdb
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStor.9F9B03E6.Up2Date
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\refint\BookStore.Repository.dll
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\BookStore.Repository.pdb
+C:\Users\Dejan\Desktop\Book-Store\BookStore.Repository\obj\Debug\net8.0\ref\BookStore.Repository.dll
