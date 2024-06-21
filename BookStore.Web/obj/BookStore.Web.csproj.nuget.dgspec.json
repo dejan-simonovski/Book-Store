@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Web\\BookStore.Web.csproj": {}
+    "E:\\BookStoreIS\\BookStore.Web\\BookStore.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj": {
+    "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectUniqueName": "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj",
         "projectName": "BookStore.Domain",
-        "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\obj\\",
+        "projectPath": "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "E:\\BookStoreIS\\BookStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -71,25 +67,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj": {
+    "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj",
+        "projectUniqueName": "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj",
         "projectName": "BookStore.Repository",
-        "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\obj\\",
+        "projectPath": "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "E:\\BookStoreIS\\BookStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -104,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj"
+              "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj"
               }
             }
           }
@@ -154,25 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Service\\BookStore.Service.csproj": {
+    "E:\\BookStoreIS\\BookStore.Service\\BookStore.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Service\\BookStore.Service.csproj",
+        "projectUniqueName": "E:\\BookStoreIS\\BookStore.Service\\BookStore.Service.csproj",
         "projectName": "BookStore.Service",
-        "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Service\\BookStore.Service.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Service\\obj\\",
+        "projectPath": "E:\\BookStoreIS\\BookStore.Service\\BookStore.Service.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "E:\\BookStoreIS\\BookStore.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -187,86 +175,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj"
+              "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj"
               },
-              "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj": {
-                "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Web\\BookStore.Web.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Web\\BookStore.Web.csproj",
-        "projectName": "BookStore.Web",
-        "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Web\\BookStore.Web.csproj",
-        "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Web\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj": {
-                "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj"
-              },
-              "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj": {
-                "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj"
-              },
-              "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Service\\BookStore.Service.csproj": {
-                "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Service\\BookStore.Service.csproj"
+              "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj": {
+                "projectPath": "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj"
               }
             }
           }
@@ -286,6 +199,91 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1784, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\BookStoreIS\\BookStore.Web\\BookStore.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BookStoreIS\\BookStore.Web\\BookStore.Web.csproj",
+        "projectName": "BookStore.Web",
+        "projectPath": "E:\\BookStoreIS\\BookStore.Web\\BookStore.Web.csproj",
+        "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+        "outputPath": "E:\\BookStoreIS\\BookStore.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj"
+              },
+              "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj": {
+                "projectPath": "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj"
+              },
+              "E:\\BookStoreIS\\BookStore.Service\\BookStore.Service.csproj": {
+                "projectPath": "E:\\BookStoreIS\\BookStore.Service\\BookStore.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1784, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -340,7 +338,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

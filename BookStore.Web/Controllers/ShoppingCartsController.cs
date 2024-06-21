@@ -8,6 +8,9 @@ using System.Data;
 using Microsoft.CodeAnalysis.Options;
 using Microsoft.Extensions.Options;
 using BookStore.Service.Interface;
+using Microsoft.AspNetCore.Identity;
+using GemBox.Document;
+using System.IO;
 
 
 namespace EShop.Web.Controllers
@@ -19,6 +22,7 @@ namespace EShop.Web.Controllers
         public ShoppingCartsController(IShoppingCartService shoppingCartService)
         {
             _shoppingCartService = shoppingCartService;
+            ComponentInfo.SetLicense("FREE-LIMITED-KEY");
         }
 
         // GET: ShoppingCarts
@@ -50,6 +54,18 @@ namespace EShop.Web.Controllers
 
             return RedirectToAction("Index", "ShoppingCarts");
         }
+
+        public async Task<IActionResult> Export()
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier) ?? null;
+
+            var pdfBytes = _shoppingCartService.ExportShoppingCart(userId??"");
+
+            return File(pdfBytes, new PdfSaveOptions().ContentType, "ShoppingCart.pdf");
+
+ 
+        }
+
 
     }
 }

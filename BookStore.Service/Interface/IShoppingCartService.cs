@@ -16,5 +16,7 @@ namespace BookStore.Service.Interface
         Boolean deleteFromShoppingCart(string userId, Guid? Id);
         Boolean orderProducts(string userId);
         Double TotalPrice(string userId);
+
+        byte[] ExportShoppingCart(string userId);
     }
 }

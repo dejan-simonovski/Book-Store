@@ -63,6 +63,7 @@
                 <th></th>
                 <th>Ден:@ViewBag.TotalPrice</th>
                 <th>
+                    <a asp-controller="ShoppingCarts" class="btn btn-primary my-2" asp-action="Export">Export ShoppingCart</a>
                         <form asp-controller="ShoppingCarts"  asp-action="Order" method="post">
                             <button class="btn btn-success   ">Pay Order</button>
                         </form>

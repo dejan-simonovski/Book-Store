@@ -39,6 +39,15 @@ namespace BookStore.Repository.Implementation
                        .Include("BooksInOrder.OrderedBook")
                       .AsEnumerable();
             }
+            else if (typeof(T).IsAssignableFrom(typeof(ShoppingCart)))
+            {
+                return entities
+                       .Include("BooksInCart")
+                       .Include("Owner")
+                       .Include("BooksInCart.BookPublisher")
+                       .Include("BooksInCart.BookPublisher.Book")
+                       .AsEnumerable();
+            }
             else
             return entities.AsEnumerable();
         }

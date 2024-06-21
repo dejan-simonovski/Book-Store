@@ -3,6 +3,8 @@ using BookStore.Domain.Domain;
 using BookStore.Domain.DTO;
 using BookStore.Repository.Interface;
 using BookStore.Service.Interface;
+using GemBox.Document;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -134,7 +136,7 @@ namespace BookStore.Service.Implementation
             return totalPrice;
         }
 
-        public bool orderProducts(string userId)
+        public Boolean orderProducts(string userId)
         {
             if (userId != null)
             {
@@ -177,6 +179,35 @@ namespace BookStore.Service.Implementation
                 return true;
             }
             return false;
+        }
+        public byte[] ExportShoppingCart(string userId)
+        {
+            var loggedInUser = _userRepository.Get(userId);
+
+            var cart = loggedInUser.UserCart;
+            var booksInCart = cart.BookInCart;
+
+            var templatePath = Path.Combine(Directory.GetCurrentDirectory(), "Invoice.docx");
+            var document = DocumentModel.Load(templatePath);
+
+            document.Content.Replace("{{cartId}}", cart.Id.ToString());
+            document.Content.Replace("{{Owner}}", cart.Owner.Email);
+
+            StringBuilder sb = new StringBuilder();
+            var total = 0.0;
+            foreach (var item in booksInCart)
+            {
+                sb.AppendLine("Book " + item.BookPublisher.Book.Title + ", has quantity " + item.Quantity + " with price " + item.BookPublisher.Price);
+                sb.AppendLine("");
+                total += (item.Quantity * item.BookPublisher.Price);
+            }
+            document.Content.Replace("{{Books}}", sb.ToString());
+            document.Content.Replace("{{TotalPrice}}", total.ToString() + "MKD");
+
+            var stream = new MemoryStream();
+            document.Save(stream, new PdfSaveOptions());
+            return stream.ToArray();
+
         }
     }
 }

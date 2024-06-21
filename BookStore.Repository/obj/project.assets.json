@@ -2942,24 +2942,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dejan\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Angel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj",
+      "projectUniqueName": "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj",
       "projectName": "BookStore.Repository",
-      "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\BookStore.Repository.csproj",
-      "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Repository\\obj\\",
+      "projectPath": "E:\\BookStoreIS\\BookStore.Repository\\BookStore.Repository.csproj",
+      "packagesPath": "C:\\Users\\Angel\\.nuget\\packages\\",
+      "outputPath": "E:\\BookStoreIS\\BookStore.Repository\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Dejan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Angel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2974,8 +2969,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\Dejan\\Desktop\\Book-Store\\BookStore.Domain\\BookStore.Domain.csproj"
+            "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj": {
+              "projectPath": "E:\\BookStoreIS\\BookStore.Domain\\BookStore.Domain.csproj"
             }
           }
         }
@@ -3024,7 +3019,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
