@@ -12,4 +12,4 @@
 
 
 **Упатство за вчитување на нашата локална база:** <br />
-Копирајте ги датотеките BookStoreDB.mdf и BookStoreDB_log.ldf во C:/Users/ImeNaTvojUser/
+Направете update-database, па после тоа копирајте ги датотеките BookStoreDB.mdf и BookStoreDB_log.ldf во C:/Users/ImeNaTvojUser/, при тоа прибришувајќи ги постоечките.
