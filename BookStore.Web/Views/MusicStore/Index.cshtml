@@ -1,0 +1,28 @@
+﻿@model IEnumerable<BookStore.Domain.MusicStoreIntegration.Album>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1 class="display-5 text-center" style="color:#1A4D2E">Albums from Partner Store</h1>
+<hr class="border-3 rounded-3 mx-auto" style="width:200px" />
+
+<div class="row mx-auto w-75 mx-auto row-cols-1 row-cols-md-3 mb-5 g-4">
+    @foreach (var item in Model)
+    {
+        <div class="col my-4 ">
+            <div class="card text-center  h-100 " style="width: 17rem;">
+                <img src="@item.AlbumImage" class="card-img-top " style="height:58%" alt="...">
+                <div class="card-body">
+                    <h4 class="card-title">@item.AlbumName</h4>
+                    <p class="card-text">Artist: @item.Artist.FirstName @item.Artist.LastName </p>
+                </div>
+                <div class="card-footer">
+                    <h3 class="py-2">@item.AlbumPrice.00 EUR</h3>
+                     </div>
+            </div>
+        </div>
+
+    }
+
+</div>

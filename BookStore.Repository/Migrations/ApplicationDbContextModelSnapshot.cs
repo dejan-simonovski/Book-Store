@@ -38,7 +38,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Author", (string)null);
+                    b.ToTable("Author");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.Book", b =>
@@ -66,7 +66,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasIndex("AuthorId");
 
-                    b.ToTable("Book", (string)null);
+                    b.ToTable("Book");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.BookPublisher", b =>
@@ -90,7 +90,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasIndex("PublisherId");
 
-                    b.ToTable("BookPublisher", (string)null);
+                    b.ToTable("BookPublisher");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.BookPublisherInCart", b =>
@@ -114,7 +114,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasIndex("ShoppingCartId");
 
-                    b.ToTable("BookPublisherInCart", (string)null);
+                    b.ToTable("BookPublisherInCart");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.BookPublisherInOrder", b =>
@@ -138,7 +138,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasIndex("OrderedBookId");
 
-                    b.ToTable("BookPublisherInOrder", (string)null);
+                    b.ToTable("BookPublisherInOrder");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.Order", b =>
@@ -154,7 +154,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasIndex("OwnerId");
 
-                    b.ToTable("Order", (string)null);
+                    b.ToTable("Order");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.Publisher", b =>
@@ -177,7 +177,7 @@ namespace BookStore.Repository.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Publisher", (string)null);
+                    b.ToTable("Publisher");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.ShoppingCart", b =>
@@ -195,7 +195,7 @@ namespace BookStore.Repository.Migrations
                         .IsUnique()
                         .HasFilter("[OwnerId] IS NOT NULL");
 
-                    b.ToTable("ShoppingCart", (string)null);
+                    b.ToTable("ShoppingCart");
                 });
 
             modelBuilder.Entity("BookStore.Domain.Domain.User", b =>
